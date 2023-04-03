@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpandLogin</string>
+    <string name="welcome">Welcome to the New App</string>
+    <string name="reg">Register</string>
+    <string name="log">Login</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="name">Enter Your Name</string>
+    <string name="mobile">Enter Your Phone No.</string>
+</resources>
